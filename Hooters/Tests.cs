@@ -35,6 +35,10 @@ namespace Hooters
 		[Test]
 		public void OrderNowTest()
 		{
+			app.Tap("btnOrder");
+
+			app.Tap("button2");
+			app.Screenshot("Then we Tapped on the 'OK' Button");
 
 		}
 	}
