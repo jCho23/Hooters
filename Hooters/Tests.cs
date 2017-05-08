@@ -47,6 +47,10 @@ namespace Hooters
 			app.Tap(x => x.Class("android.widget.TextView"));
 			app.Screenshot("We Tapped on the first return result");
 
+			app.Tap("btnSeeDefaultMenu");
+			app.Screenshot("Then we Tapped on the 'View Menu' Button");
+
+			app.Tap("Teasers");
 
 		}
 	}
