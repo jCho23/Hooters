@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{4FE26DA5-02EC-4EB4-BB4F-E57DA418A8FC}|Unit Tests">
   <MonoDevelop.Ide.Workbench ActiveDocument="Hooters/AppInitializer.cs">
     <Files>
-      <File FileName="Hooters/AppInitializer.cs" Line="1" Column="1" />
+      <File FileName="Hooters/AppInitializer.cs" Line="30" Column="55" />
+      <File FileName="Hooters/Tests.cs" Line="34" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
