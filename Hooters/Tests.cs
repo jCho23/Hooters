@@ -23,6 +23,7 @@ namespace Hooters
 		public void BeforeEachTest()
 		{
 			app = AppInitializer.StartApp(platform);
+			app.Screenshot("App Launched");
 		}
 
 		[Test]
@@ -30,6 +31,8 @@ namespace Hooters
 		{
 			app.Repl();
 		}
+
+
 
 
 	}
