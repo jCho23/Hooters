@@ -1,0 +1,7 @@
+/Users/junecho/Projects/Hooters/Hooters/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/junecho/Projects/Hooters/Hooters/bin/Debug/Hooters.dll.mdb
+/Users/junecho/Projects/Hooters/Hooters/bin/Debug/Hooters.dll
+/Users/junecho/Projects/Hooters/Hooters/obj/Debug/Hooters.dll
+/Users/junecho/Projects/Hooters/Hooters/obj/Debug/Hooters.dll.mdb
+/Users/junecho/Projects/Hooters/Hooters/bin/Debug/nunit.framework.dll
+/Users/junecho/Projects/Hooters/Hooters/bin/Debug/Xamarin.UITest.dll
