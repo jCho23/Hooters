@@ -27,7 +27,7 @@ namespace Hooters
 		}
 
 		[Test]
-		public void AppLaunches()
+		public void Repl()
 		{
 			app.Repl();
 		}
@@ -36,11 +36,13 @@ namespace Hooters
 		public void OrderNowTest()
 		{
 			app.Tap("btnOrder");
+			app.Screenshot("Let's start by Tapping on the 'Order' Button");
 
 			app.Tap("button2");
 			app.Screenshot("Then we Tapped on the 'OK' Button");
 
 			app.Tap("btnGPSLocator");
+			app.Screenshot("Next we Tapped on 'Find Closest Locations'");
 
 			app.Tap(x => x.Class("android.widget.TextView"));
 			app.Screenshot("We Tapped on the first return result");
