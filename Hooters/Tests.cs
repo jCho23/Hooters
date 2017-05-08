@@ -32,8 +32,10 @@ namespace Hooters
 			app.Repl();
 		}
 
+		[Test]
+		public void OrderNowTest()
+		{
 
-
-
+		}
 	}
 }
