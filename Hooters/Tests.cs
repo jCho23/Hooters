@@ -40,6 +40,12 @@ namespace Hooters
 			app.Tap("button2");
 			app.Screenshot("Then we Tapped on the 'OK' Button");
 
+			app.Tap("btnGPSLocator");
+
+			app.Tap(x => x.Class("android.widget.TextView"));
+			app.Screenshot("We Tapped on the first return result");
+
+
 		}
 	}
 }
