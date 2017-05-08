@@ -57,9 +57,10 @@ namespace Hooters
 			app.Screenshot("Next we Tapped on the second item on the menu");
 
 			app.Tap(x => x.Class("android.widget.ImageButton"));
-			app.Screenshot("We Tapped the 'Back' Button");
+			app.Screenshot("Then we Tapped the 'Back' Button");
 
-
+			app.Tap(x => x.Class("android.widget.ImageButton"));
+			app.Screenshot("We have to Tap the 'Back' Button again to see the menu");
 		}
 	}
 }
