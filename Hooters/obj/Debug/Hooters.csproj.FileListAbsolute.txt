@@ -1,0 +1,10 @@
+/Users/junecho/Projects/Hooters/Hooters/bin/Debug/Hooters.dll
+/Users/junecho/Projects/Hooters/Hooters/bin/Debug/Hooters.pdb
+/Users/junecho/Projects/Hooters/Hooters/bin/Debug/nunit.framework.dll
+/Users/junecho/Projects/Hooters/Hooters/bin/Debug/Xamarin.UITest.dll
+/Users/junecho/Projects/Hooters/Hooters/bin/Debug/nunit.framework.xml
+/Users/junecho/Projects/Hooters/Hooters/bin/Debug/Xamarin.UITest.xml
+/Users/junecho/Projects/Hooters/Hooters/obj/Debug/Hooters.csprojResolveAssemblyReference.cache
+/Users/junecho/Projects/Hooters/Hooters/obj/Debug/Hooters.csproj.CoreCompileInputs.cache
+/Users/junecho/Projects/Hooters/Hooters/obj/Debug/Hooters.dll
+/Users/junecho/Projects/Hooters/Hooters/obj/Debug/Hooters.pdb
